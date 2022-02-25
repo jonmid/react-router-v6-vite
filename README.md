@@ -1,6 +1,6 @@
 # 🚀 Manejo de Rutas con React Router V6 - (ReactJs - Tailwind CSS) 🚀
 
-Proyecto trabajado en ReactJs para trabajar con las nuevas funcionalidades de React Router V6. Contiene anidamiento de rutas y protección de rutas.
+Proyecto trabajado en ReactJs para manejar las nuevas funcionalidades de React Router V6. Contiene anidamiento de rutas y protección de rutas.
 
 ## 🛠️ Instalación
 

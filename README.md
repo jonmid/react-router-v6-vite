@@ -18,7 +18,7 @@ npm run dev
 
 ## 🔖 Resultado Final
 
-Live example [https://react-router-v6-vite.vercel.app/](https://react-router-v6-vite.vercel.app/)
+Live Demo [https://react-router-v6-vite.vercel.app/](https://react-router-v6-vite.vercel.app/)
 
 ![](/screenshot.jpg?raw=true "Screenshot")
 
